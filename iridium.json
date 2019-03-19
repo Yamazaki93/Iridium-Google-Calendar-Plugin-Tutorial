@@ -1,0 +1,14 @@
+{
+    "id": "2e8597aa-e711-40fc-a37b-8c88cdf9c8a5",
+    "name": "Google Calendar Plugin",
+    "description": "A plugin that integrates with google calendar",
+    "author": "Michael Lu",
+    "image": "icon.png",
+    "main": "index.js",
+    "frontend": {
+        "settingsPage": {
+            "module": "SettingsFrontendModule",
+            "path": "frontend/dist/settings-frontend"
+        }
+    }
+}

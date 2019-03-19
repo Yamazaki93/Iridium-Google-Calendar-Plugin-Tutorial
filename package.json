@@ -1,0 +1,10 @@
+{
+    "name": "iridium-google-calendar-plugin",
+    "version": "0.0.1",
+    "description": "A plugin that uploads tasks to Google Calendar",
+    "dependencies": {
+        "axios": "^0.18.0",
+        "googleapis": "^27.0.0",
+        "opn": "^5.4.0"
+    }
+}
